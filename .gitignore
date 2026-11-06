@@ -1,0 +1,4 @@
+# Public repo: only root .html cards are published. Everything else stays local.
+/*
+!/.gitignore
+!/*.html
